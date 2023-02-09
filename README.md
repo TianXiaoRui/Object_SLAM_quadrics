@@ -22,7 +22,7 @@ Experimental results on the real-world KITTI dataset show that the proposed syst
 （2）Object map of KITTI raw data seq 22
 
 
-![Object map of KITTI raw data seq 22](https://github.com/TianXiaoRui/Object_SLAM-/blob/main/fig/22.png width=80%)
+![Object map of KITTI raw data seq 22](https://github.com/TianXiaoRui/Object_SLAM-/blob/main/fig/22.png)
 
 
 （3）Demo：
